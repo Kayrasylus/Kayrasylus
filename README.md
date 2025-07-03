@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Kayrasylus!<br>- 🔭 I’m currently working on Python projects<br>- 🌱 I’m currently learning AI, GUI, automation, and web development<br>- 🤔 I’m exploring new tech like Web3 and Machine Learning — plus, I love AI, ML, Web3, app development, and game development<br><br>
+## 👋 Hi, I'm Kayrasylus!<br> 🔭 I’m currently working on Python projects<br> 🌱 I’m currently learning AI, GUI, automation, and web development<br> 🤔 I’m exploring new tech like Web3 and Machine Learning — plus, I love AI, ML, Web3, app development, and game development<br><br>
 
 
 ## 🌐 Socials:
